@@ -1,0 +1,89 @@
+*{
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+body{
+background-image: url(img/fondo_login_erp_2.jpg);
+}
+.foto{
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    width: 240px;
+    height: 280px;
+
+}
+.todo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.yo{
+    background-color: white;
+    text-align: center;
+    border-radius: 50px;
+    border: solid 3px black;
+    padding: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 100vh;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    background-position: center center;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align-last: center;
+    color: white;
+    background-color: black;
+    border: solid 3px blue;
+    font-size: 25px;
+    margin:5px 2.5px 5px 2.5px ;
+    width: 215px;
+    height: 80px;
+    margin-top: 5px;
+    margin-left: 18px;
+    
+} 
+.botones{
+    background-color: black;
+    border: solid blue 3px;
+    width: 215px;
+    height: 80px;
+    margin: 5px 2.5px 5px 2.5px;
+    border-radius: solid blue 1px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:25px ;
+    margin-right: 4px;
+    color: white;
+    background-color: black;
+}
+#boton{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    border: solid blue 3px;
+    width: 215px;
+    height: 80px;
+    margin: 5px 2.5px 5px 2.5px ;
+ background-position: center;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ border-radius: 1px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  
+a{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    margin: 4px;
+    margin-bottom: 25px;
+}
+
+  
+
+
